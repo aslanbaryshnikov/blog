@@ -1,0 +1,23 @@
+{
+  "siteName": "Aslan Baryshnikov",
+  "siteDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit eaque, nesciunt.",
+  "blog": "Blog",
+  "aboutMe": "About me",
+  "aboutMeDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit eaque, nesciunt.",
+  "contact": "Contact",
+  "contactDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit eaque, nesciunt.",
+  "darkMode": "Dark mode",
+  "lightMode": "Light mode",
+  "searchPlaceholder": "Keywords or phrase",
+  "search": "Search",
+  "gitHub": "GitHub",
+  "telegram": "Telegram",
+  "latestPosts": "Latest posts",
+  "postedOn": "Posted on",
+  "likes_one": "{{count}} like",
+  "likes_other": "{{count}} likes",
+  "comments_one": "{{count}} comment",
+  "comments_other": "{{count}} comments",
+  "previousPage": "« Previous page",
+  "nextPage": "Next page »"
+}

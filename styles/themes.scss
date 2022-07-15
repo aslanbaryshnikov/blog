@@ -1,0 +1,28 @@
+body {
+    &.light {
+        a {
+            &,
+            &:hover,
+            &:active,
+            &:focus,
+            &:visited {
+                color: #00e;
+            }
+        }
+    }
+
+    &.dark {
+        background: #000;
+        color: #888;
+
+        a {
+            &,
+            &:hover,
+            &:active,
+            &:focus,
+            &:visited {
+                color: #ccc;
+            }
+        }
+    }
+}
